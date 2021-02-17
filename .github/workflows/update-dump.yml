@@ -1,0 +1,25 @@
+
+name: Update ORKG dump
+
+on:
+  workflow_dispatch:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '0 4 * * *'
+
+jobs:
+  replace-graphs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+      - name: Set Git user
+        run: |
+          git config user.email "orkg-dump-bot@example.org"
+          git config user.name "ORKG Dump Bot"
+      - name: Install Raptor utils
+        run: sudo apt-get install raptor2-utils
+      - name: Get dump and update
+        run: ./update.sh
+      - name: Get dump and update
+        run: git push
