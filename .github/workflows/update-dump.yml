@@ -8,7 +8,7 @@ on:
     - cron:  '0 4 * * *'
 
 jobs:
-  replace-graphs:
+  update-graph:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
@@ -17,9 +17,9 @@ jobs:
         run: |
           git config user.email "orkg-dump-bot@example.org"
           git config user.name "ORKG Dump Bot"
-      - name: Install Raptor utils
+      - name: Install raptor utils
         run: sudo apt-get install raptor2-utils
       - name: Get dump and update
         run: ./update.sh
-      - name: Get dump and update
+      - name: Push updates
         run: git push
