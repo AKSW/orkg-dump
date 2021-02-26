@@ -29,7 +29,7 @@ git add $EXPORT
 git status --porcelain | grep '^.[MTD] '
 change_status=$((1-$?))
 
-if [ $change_status -eq 0]; then
+if [ $change_status -eq 0 ]; then
   echo "[INFO] Repository needs no update. Abort."
   exit 0
 else
