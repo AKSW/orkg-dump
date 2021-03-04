@@ -26,7 +26,7 @@ echo $LOG
 git add $EXPORT
 
 # Check if files changed or commits need to be pushed
-git status --porcelain | grep '^.[MTD] '
+git status --porcelain | grep '^[MTD] '
 change_status=$((1-$?))
 
 if [ $change_status -eq 0 ]; then
