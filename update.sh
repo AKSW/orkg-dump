@@ -27,7 +27,7 @@ echo $LOG
 
 split -b 90M --additional-suffix=.nt $EXPORT ${EXPORT%.nt}-
 
-git add ${EXPORT}-*.nt
+git add ${EXPORT%.nt}-*.nt
 
 # Check if files changed or commits need to be pushed
 git status --porcelain | grep '^[MTD] '
