@@ -1,4 +1,7 @@
-> <http://orkg.org/orkg/class/Resource> .
+ng> .
+<http://orkg.org/orkg/resource/R775094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775094> <http://www.w3.org/2000/01/rdf-schema#label> "Tetmemorus"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
 <http://orkg.org/orkg/resource/R775095> <http://www.w3.org/2000/01/rdf-schema#label> "Penium margaritaceum Br\u00E9b."^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://orkg.org/orkg/resource/R775096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
 <http://orkg.org/orkg/resource/R775096> <http://www.w3.org/2000/01/rdf-schema#label> "Penium cylindrus Br\u00E9b. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
