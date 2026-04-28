@@ -1,4 +1,306 @@
-ng> .
+ww.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774943> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774943> <http://www.w3.org/2000/01/rdf-schema#label> "Penium rufescens Cleve"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774944> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774944> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium libellula Focke"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774945> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774946> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774946> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium navicula (Br\u00E9b.) L\u00FCtkem."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774947> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774947> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium acutum Br\u00E9b."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774948> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774948> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774949> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium venus var. incurvum (Br\u00E9b.) Willi Krieg."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774950> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774950> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium parvulum N\u00E4geli, 1849"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774951> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774951> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium idiosporum West & G.S.West"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774952> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774953> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774953> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774954> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774954> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774955> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774955> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium moniliferum (Bory) Ehrenb. ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774956> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium calosporum Wittrock"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774957> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774957> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium dianae Ehrenberg ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774958> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774958> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium lunula Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774959> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774959> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium abruptum West"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774960> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium gracile Br\u00E9b. ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774961> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774961> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium macilentum Br\u00E9b."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774962> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774962> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium acerosum (Schrank) Ehrenb. ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774963> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774963> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium lanceolatum K\u00FCtzing ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774964> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774965> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium didymotocum Corda ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774966> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774966> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774967> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium juncidum var. brevius (Rabenh.) J.Roy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774968> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium turgidum Ehrenb. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774969> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium intermedium Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774970> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774970> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium striolatum Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774971> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774971> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium praelongum Br\u00E9b."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774972> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium ulna Focke ex W.B.Turner, 1892"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774973> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774974> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774975> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774975> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium lineatum Ehrenberg ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774976> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774977> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium rostratum Ehrenb. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774978> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium setaceum Ehrenb. ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774979> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium costatum Corda ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774980> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium angustatum K\u00FCtz. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774981> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774981> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774982> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774983> <http://www.w3.org/2000/01/rdf-schema#label> "Charophyta"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774984> <http://www.w3.org/2000/01/rdf-schema#label> "Pleurotaenium trabecula (Ehrenb.) N\u00E4geli, 1849"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774985> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774985> <http://www.w3.org/2000/01/rdf-schema#label> "Pleurotaenium"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774986> <http://www.w3.org/2000/01/rdf-schema#label> "Pleurotaenium coronatum (Br\u00E9bisson) Rabenhorst"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774987> <http://www.w3.org/2000/01/rdf-schema#label> "Pleurotaenium N\u00E4geli, 1849"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774988> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774988> <http://www.w3.org/2000/01/rdf-schema#label> "Pleurotaenium truncatum (Br\u00E9bisson ex Ralfs) N\u00E4geli"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774989> <http://www.w3.org/2000/01/rdf-schema#label> "Tetmemorus granulatus Br\u00E9bisson ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774990> <http://www.w3.org/2000/01/rdf-schema#label> "Tetmemorus"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774991> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774991> <http://www.w3.org/2000/01/rdf-schema#label> "Penium margaritaceum Br\u00E9b."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774992> <http://www.w3.org/2000/01/rdf-schema#label> "Penium cylindrus Br\u00E9b. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774993> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774993> <http://www.w3.org/2000/01/rdf-schema#label> "Penium phymatosporum Nordst., 1876"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774994> <http://www.w3.org/2000/01/rdf-schema#label> "Penium Br\u00E9bisson ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774995> <http://www.w3.org/2000/01/rdf-schema#label> "Penium rufescens Cleve"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774996> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium libellula Focke"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774997> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774998> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium navicula (Br\u00E9b.) L\u00FCtkem."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774999> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium acutum Br\u00E9b."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775000> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775001> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium venus var. incurvum (Br\u00E9b.) Willi Krieg."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775002> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium parvulum N\u00E4geli, 1849"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775003> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium idiosporum West & G.S.West"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775004> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775005> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775006> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775007> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium moniliferum (Bory) Ehrenb. ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775008> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium calosporum Wittrock"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775009> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium dianae Ehrenberg ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775010> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium lunula Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775011> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium abruptum West"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775012> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium gracile Br\u00E9b. ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775013> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium macilentum Br\u00E9b."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775014> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium acerosum (Schrank) Ehrenb. ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775015> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium lanceolatum K\u00FCtzing ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775016> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775017> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium didymotocum Corda ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775018> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775019> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium juncidum var. brevius (Rabenh.) J.Roy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775020> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium turgidum Ehrenb. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775021> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium intermedium Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775022> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium striolatum Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775023> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium praelongum Br\u00E9b."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775024> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium ulna Focke ex W.B.Turner, 1892"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775025> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775026> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775027> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium lineatum Ehrenberg ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775028> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775029> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium rostratum Ehrenb. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775030> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium setaceum Ehrenb. ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775031> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium costatum Corda ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775032> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium angustatum K\u00FCtz. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775033> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775034> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775035> <http://www.w3.org/2000/01/rdf-schema#label> "Charophyta"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775036> <http://www.w3.org/2000/01/rdf-schema#label> "Pleurotaenium trabecula (Ehrenb.) N\u00E4geli, 1849"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775037> <http://www.w3.org/2000/01/rdf-schema#label> "Pleurotaenium"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775038> <http://www.w3.org/2000/01/rdf-schema#label> "Pleurotaenium coronatum (Br\u00E9bisson) Rabenhorst"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775039> <http://www.w3.org/2000/01/rdf-schema#label> "Pleurotaenium N\u00E4geli, 1849"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775040> <http://www.w3.org/2000/01/rdf-schema#label> "Pleurotaenium truncatum (Br\u00E9bisson ex Ralfs) N\u00E4geli"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775041> <http://www.w3.org/2000/01/rdf-schema#label> "Tetmemorus granulatus Br\u00E9bisson ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775042> <http://www.w3.org/2000/01/rdf-schema#label> "Tetmemorus"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775043> <http://www.w3.org/2000/01/rdf-schema#label> "Penium margaritaceum Br\u00E9b."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775044> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775044> <http://www.w3.org/2000/01/rdf-schema#label> "Penium cylindrus Br\u00E9b. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775045> <http://www.w3.org/2000/01/rdf-schema#label> "Penium phymatosporum Nordst., 1876"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775046> <http://www.w3.org/2000/01/rdf-schema#label> "Penium Br\u00E9bisson ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775047> <http://www.w3.org/2000/01/rdf-schema#label> "Penium rufescens Cleve"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775048> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium libellula Focke"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775049> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775050> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium navicula (Br\u00E9b.) L\u00FCtkem."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775051> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium acutum Br\u00E9b."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775052> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775053> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium venus var. incurvum (Br\u00E9b.) Willi Krieg."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775054> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium parvulum N\u00E4geli, 1849"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775055> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium idiosporum West & G.S.West"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775056> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775057> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775058> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775059> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium moniliferum (Bory) Ehrenb. ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775060> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium calosporum Wittrock"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775061> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium dianae Ehrenberg ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775062> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium lunula Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775063> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium abruptum West"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775064> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium gracile Br\u00E9b. ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775065> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium macilentum Br\u00E9b."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775066> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium acerosum (Schrank) Ehrenb. ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775067> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium lanceolatum K\u00FCtzing ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775068> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775069> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium didymotocum Corda ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775070> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775071> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium juncidum var. brevius (Rabenh.) J.Roy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775072> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium turgidum Ehrenb. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775073> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium intermedium Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775074> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium striolatum Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775075> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium praelongum Br\u00E9b."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775076> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium ulna Focke ex W.B.Turner, 1892"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775077> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775078> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775079> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium lineatum Ehrenberg ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775080> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775081> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium rostratum Ehrenb. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775082> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium setaceum Ehrenb. ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775083> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775083> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium costatum Corda ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775084> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775084> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium angustatum K\u00FCtz. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775085> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775086> <http://www.w3.org/2000/01/rdf-schema#label> "Closterium Nitzsch ex Ralfs, 1848"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775087> <http://www.w3.org/2000/01/rdf-schema#label> "Charophyta"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775088> <http://www.w3.org/2000/01/rdf-schema#label> "Pleurotaenium trabecula (Ehrenb.) N\u00E4geli, 1849"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775089> <http://www.w3.org/2000/01/rdf-schema#label> "Pleurotaenium"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775090> <http://www.w3.org/2000/01/rdf-schema#label> "Pleurotaenium coronatum (Br\u00E9bisson) Rabenhorst"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775091> <http://www.w3.org/2000/01/rdf-schema#label> "Pleurotaenium N\u00E4geli, 1849"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775092> <http://www.w3.org/2000/01/rdf-schema#label> "Pleurotaenium truncatum (Br\u00E9bisson ex Ralfs) N\u00E4geli"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R775093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R775093> <http://www.w3.org/2000/01/rdf-schema#label> "Tetmemorus granulatus Br\u00E9bisson ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://orkg.org/orkg/resource/R775094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
 <http://orkg.org/orkg/resource/R775094> <http://www.w3.org/2000/01/rdf-schema#label> "Tetmemorus"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://orkg.org/orkg/resource/R775095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
