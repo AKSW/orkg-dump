@@ -1,4 +1,144 @@
-um circulare Reinsch"^^<http://www.w3.org/2001/XMLSchema#string> .
+org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773934> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773934> <http://www.w3.org/2000/01/rdf-schema#label> "Micrasterias pinnatifida K\u00FCtz. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773935> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773935> <http://www.w3.org/2000/01/rdf-schema#label> "Micrasterias truncata (Corda) Br\u00E9b. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773936> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773936> <http://www.w3.org/2000/01/rdf-schema#label> "Micrasterias"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773937> <http://www.w3.org/2000/01/rdf-schema#label> "Micrasterias radiata Hass."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773938> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773938> <http://www.w3.org/2000/01/rdf-schema#label> "Micrasterias apiculata Meneghini ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773939> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773939> <http://www.w3.org/2000/01/rdf-schema#label> "Micrasterias papillifera Br\u00E9b. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773940> <http://www.w3.org/2000/01/rdf-schema#label> "Micrasterias"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773941> <http://www.w3.org/2000/01/rdf-schema#label> "Micrasterias rotata (Grev.) Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773942> <http://www.w3.org/2000/01/rdf-schema#label> "Micrasterias denticulata var. angulosa (Hantzsch) W. & G.S.West"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773943> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773943> <http://www.w3.org/2000/01/rdf-schema#label> "Plantae"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773944> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773944> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium abbreviatum Nordst."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773945> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium angulosum var. concinnum (Rabenh.) W. & G.S.West"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773946> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773946> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium amoenum Br\u00E9b. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773947> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773947> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium bioculatum Br\u00E9b. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773948> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773948> <http://www.w3.org/2000/01/rdf-schema#label> "Plantae"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773949> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773950> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773950> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773951> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773951> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium cucurbitinum (Bisset) L\u00FCtkem."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773952> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium circulare Reinsch"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773953> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773953> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773954> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773954> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium contractum Kirchn."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773955> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773955> <http://www.w3.org/2000/01/rdf-schema#label> "Plantae"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773956> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium connatum Br\u00E9b. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773957> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773957> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium conspersum Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773958> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773958> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium crenatum Ralfs ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773959> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773959> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium depressum (N\u00E4geli) P.Lundell"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773960> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium difficile L\u00FCtkem."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773961> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773961> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium fontigenum Nordst."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773962> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773962> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium granatum Br\u00E9b. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773963> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773963> <http://www.w3.org/2000/01/rdf-schema#label> "Tetmemorus laevis var. minutus (de Bary) Willi.Krieg."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773964> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum cuneatum Jenner"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773965> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum ansatum Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773966> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773966> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum crassum (Br\u00E9b.) K\u00FCtz."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773967> <http://www.w3.org/2000/01/rdf-schema#label> "Plantae"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773968> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum ampullaceum Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773969> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum didelta Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773970> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773970> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum affine Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773971> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773971> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum pinnatum Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773972> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum humerosum Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773973> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum oblongum (Grev.) Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773974> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum insigne Hassall ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773975> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773975> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum pectinatum Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773976> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum binale Ehrenb. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773977> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum insulare (Wittrock) Roy, 1883"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773978> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum dubium N\u00E4geli"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773979> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum pulchellum Br\u00E9b."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773980> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773981> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773981> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum elegans (Br\u00E9b.) K\u00FCtz. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773982> <http://www.w3.org/2000/01/rdf-schema#label> "Plantae"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773983> <http://www.w3.org/2000/01/rdf-schema#label> "Plantae"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773984> <http://www.w3.org/2000/01/rdf-schema#label> "Plantae"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773985> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773985> <http://www.w3.org/2000/01/rdf-schema#label> "Micrasterias pinnatifida K\u00FCtz. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773986> <http://www.w3.org/2000/01/rdf-schema#label> "Micrasterias truncata (Corda) Br\u00E9b. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773987> <http://www.w3.org/2000/01/rdf-schema#label> "Micrasterias"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773988> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773988> <http://www.w3.org/2000/01/rdf-schema#label> "Micrasterias radiata Hass."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773989> <http://www.w3.org/2000/01/rdf-schema#label> "Micrasterias apiculata Meneghini ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773990> <http://www.w3.org/2000/01/rdf-schema#label> "Micrasterias papillifera Br\u00E9b. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773991> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773991> <http://www.w3.org/2000/01/rdf-schema#label> "Micrasterias"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773992> <http://www.w3.org/2000/01/rdf-schema#label> "Micrasterias rotata (Grev.) Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773993> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773993> <http://www.w3.org/2000/01/rdf-schema#label> "Micrasterias denticulata var. angulosa (Hantzsch) W. & G.S.West"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773994> <http://www.w3.org/2000/01/rdf-schema#label> "Plantae"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773995> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium abbreviatum Nordst."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773996> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium angulosum var. concinnum (Rabenh.) W. & G.S.West"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773997> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium amoenum Br\u00E9b. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773998> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium bioculatum Br\u00E9b. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773999> <http://www.w3.org/2000/01/rdf-schema#label> "Plantae"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774000> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774001> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774002> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium cucurbitinum (Bisset) L\u00FCtkem."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R774003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R774003> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium circulare Reinsch"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://orkg.org/orkg/resource/R774004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
 <http://orkg.org/orkg/resource/R774004> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmarium"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://orkg.org/orkg/resource/R774005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
