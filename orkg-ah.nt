@@ -1,4 +1,68 @@
-org/2001/XMLSchema#string> .
+aucher) Dumort."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773902> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773902> <http://www.w3.org/2000/01/rdf-schema#label> "Zygnema C.Agardh, 1816"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773903> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773903> <http://www.w3.org/2000/01/rdf-schema#label> "Zygogonium ericetorum K\u00FCtz."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773904> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773904> <http://www.w3.org/2000/01/rdf-schema#label> "Plantae"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773905> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773905> <http://www.w3.org/2000/01/rdf-schema#label> "Mougeotia viridis (K\u00FCtz.) Wittr."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773906> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773906> <http://www.w3.org/2000/01/rdf-schema#label> "Mougeotia parvula Hassall"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773907> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773907> <http://www.w3.org/2000/01/rdf-schema#label> "Heterodonta Duponchel, 1845"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773908> <http://www.w3.org/2000/01/rdf-schema#label> "Mischococcus confervicola N\u00E4geli"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773909> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773909> <http://www.w3.org/2000/01/rdf-schema#label> "Ophiocytium majus N\u00E4geli"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773910> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773910> <http://www.w3.org/2000/01/rdf-schema#label> "Ophiocytium cochleare (Eichw.) A.Braun"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773911> <http://www.w3.org/2000/01/rdf-schema#label> "Ophiocytium arbuscula (A.Br.) Rabh."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773912> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773912> <http://www.w3.org/2000/01/rdf-schema#label> "Tetmemorus laevis var. minutus (de Bary) Willi.Krieg."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773913> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773913> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum cuneatum Jenner"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773914> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum ansatum Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773915> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773915> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum crassum (Br\u00E9b.) K\u00FCtz."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773916> <http://www.w3.org/2000/01/rdf-schema#label> "Plantae"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773917> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773917> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum ampullaceum Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773918> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum didelta Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773919> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum affine Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773920> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773920> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum pinnatum Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773921> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773921> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum humerosum Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773922> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773922> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum oblongum (Grev.) Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773923> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773923> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum insigne Hassall ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773924> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum pectinatum Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773925> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum binale Ehrenb. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773926> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773926> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum insulare (Wittrock) Roy, 1883"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773927> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773927> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum dubium N\u00E4geli"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773928> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum pulchellum Br\u00E9b."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773929> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773930> <http://www.w3.org/2000/01/rdf-schema#label> "Euastrum elegans (Br\u00E9b.) K\u00FCtz. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773931> <http://www.w3.org/2000/01/rdf-schema#label> "Plantae"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773932> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773932> <http://www.w3.org/2000/01/rdf-schema#label> "Plantae"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773933> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773933> <http://www.w3.org/2000/01/rdf-schema#label> "Plantae"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://orkg.org/orkg/resource/R773934> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
 <http://orkg.org/orkg/resource/R773934> <http://www.w3.org/2000/01/rdf-schema#label> "Micrasterias pinnatifida K\u00FCtz. ex Ralfs"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://orkg.org/orkg/resource/R773935> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
