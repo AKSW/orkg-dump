@@ -1,4 +1,56 @@
-//orkg.org/orkg/resource/R773833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+ntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773807> <http://www.w3.org/2000/01/rdf-schema#label> "Volvocales"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773808> <http://www.w3.org/2000/01/rdf-schema#label> "Pyramidomonas Averintsev, 1916"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773809> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773809> <http://www.w3.org/2000/01/rdf-schema#label> "Gonium pectorale O.F.M\u00FCll."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773810> <http://www.w3.org/2000/01/rdf-schema#label> "Pandorina morum (O.F.M\u00FCll.) Bory"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773811> <http://www.w3.org/2000/01/rdf-schema#label> "Eudorina elegans Ehrenb."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773812> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773812> <http://www.w3.org/2000/01/rdf-schema#label> "Volvox aureus Ehrenb."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773813> <http://www.w3.org/2000/01/rdf-schema#label> "Conjugata Vaucher, 1803"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773814> <http://www.w3.org/2000/01/rdf-schema#label> "Spirogyra Link, 1820"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773815> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773815> <http://www.w3.org/2000/01/rdf-schema#label> "Spirogyra maxima (Hassall) Wittr."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773816> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773816> <http://www.w3.org/2000/01/rdf-schema#label> "Spirogyra mirabilis (Hassall) K\u00FCtz."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773817> <http://www.w3.org/2000/01/rdf-schema#label> "Spirogyra inflata (Vaucher) Dumort."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773818> <http://www.w3.org/2000/01/rdf-schema#label> "Zygnema C.Agardh, 1816"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773819> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773819> <http://www.w3.org/2000/01/rdf-schema#label> "Zygogonium ericetorum K\u00FCtz."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773820> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773820> <http://www.w3.org/2000/01/rdf-schema#label> "Plantae"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773821> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773821> <http://www.w3.org/2000/01/rdf-schema#label> "Mougeotia viridis (K\u00FCtz.) Wittr."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773822> <http://www.w3.org/2000/01/rdf-schema#label> "Mougeotia parvula Hassall"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773823> <http://www.w3.org/2000/01/rdf-schema#label> "Heterodonta Duponchel, 1845"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773824> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773824> <http://www.w3.org/2000/01/rdf-schema#label> "Mischococcus confervicola N\u00E4geli"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773825> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773825> <http://www.w3.org/2000/01/rdf-schema#label> "Ophiocytium majus N\u00E4geli"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773826> <http://www.w3.org/2000/01/rdf-schema#label> "Ophiocytium cochleare (Eichw.) A.Braun"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773827> <http://www.w3.org/2000/01/rdf-schema#label> "Ophiocytium arbuscula (A.Br.) Rabh."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773828> <http://www.w3.org/2000/01/rdf-schema#label> "Chaetosphaeridium"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773829> <http://www.w3.org/2000/01/rdf-schema#label> "Microsporales"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773830> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773830> <http://www.w3.org/2000/01/rdf-schema#label> "Microspora quadrata Hazen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773831> <http://www.w3.org/2000/01/rdf-schema#label> "Microspora tumidula Hazen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773832> <http://www.w3.org/2000/01/rdf-schema#label> "Microspora stagnorum (K\u00FCtz.) Lagerh."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
 <http://orkg.org/orkg/resource/R773833> <http://www.w3.org/2000/01/rdf-schema#label> "Microspora floccosa (Vaucher) Thur."^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://orkg.org/orkg/resource/R773834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
 <http://orkg.org/orkg/resource/R773834> <http://www.w3.org/2000/01/rdf-schema#label> "Microspora pachyderma (Wille) Lagerh."^^<http://www.w3.org/2001/XMLSchema#string> .
