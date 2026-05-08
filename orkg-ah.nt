@@ -1,4 +1,7 @@
-source/R773700> <http://www.w3.org/2000/01/rdf-schema#label> "Ophiocytium cochleare (Eichw.) A.Braun"^^<http://www.w3.org/2001/XMLSchema#string> .
+773699> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773699> <http://www.w3.org/2000/01/rdf-schema#label> "Ophiocytium majus N\u00E4geli"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://orkg.org/orkg/resource/R773700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
+<http://orkg.org/orkg/resource/R773700> <http://www.w3.org/2000/01/rdf-schema#label> "Ophiocytium cochleare (Eichw.) A.Braun"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://orkg.org/orkg/resource/R773701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
 <http://orkg.org/orkg/resource/R773701> <http://www.w3.org/2000/01/rdf-schema#label> "Ophiocytium arbuscula (A.Br.) Rabh."^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://orkg.org/orkg/resource/R773702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://orkg.org/orkg/class/Resource> .
